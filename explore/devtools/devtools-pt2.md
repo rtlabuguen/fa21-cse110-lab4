@@ -1,0 +1,2 @@
+1. The bug occured because the program was performing '+' on two string variables. Therefore, the program was performing string concatenation instead of integer addition. 
+2. I would typecast the "num1" and "num2" variables using the number() funciton.
